@@ -1,0 +1,6 @@
+projectKey=meu-teste-docker-typescript
+serverUrl=http://172.21.0.1:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://172.21.0.1:9000/dashboard?id=meu-teste-docker-typescript
+ceTaskId=AXGjfsk8-z1N9YVuT1Pn
+ceTaskUrl=http://172.21.0.1:9000/api/ce/task?id=AXGjfsk8-z1N9YVuT1Pn

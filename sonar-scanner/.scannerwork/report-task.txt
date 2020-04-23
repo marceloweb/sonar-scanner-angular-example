@@ -1,0 +1,6 @@
+projectKey=meu-teste-typescript
+serverUrl=http://172.20.0.2:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://172.20.0.2:9000/dashboard?id=meu-teste-typescript
+ceTaskId=AXGj0CKr-z1N9YVuT1P8
+ceTaskUrl=http://172.20.0.2:9000/api/ce/task?id=AXGj0CKr-z1N9YVuT1P8
