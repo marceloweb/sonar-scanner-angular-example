@@ -22,3 +22,10 @@ Or
 $ docker run -ti -v $(pwd):/usr/src -v $(pwd)/sonar-runner.properties:/usr/lib/sonar-scanner/conf/sonar-scanner.properties newtmitch/sonar-scanner
 ```
 
+# Optional
+
+## Install Sonarqube Server
+```
+$ docker-compose up -d
+```
+
